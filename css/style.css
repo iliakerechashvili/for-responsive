@@ -3,10 +3,11 @@
     width: 100%;
     display: flex;
     justify-content: space-between;
-    margin: 20px auto;
+    margin: 40px auto;
     background-color: chartreuse;
     flex-flow: row wrap;
     font-size: 16px;
+    
 }
 .for-nav ul {
     display: flex;
@@ -38,8 +39,8 @@
         display: flex;
         justify-content: space-between;
         margin: 50px auto;
-        background-color: green;
-        color: orangered;
+        background-color: darkcyan;
+        color: darkred;
         flex-flow: row wrap;
         font-size: 26px;
     }
